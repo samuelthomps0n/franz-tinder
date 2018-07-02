@@ -1,0 +1,13 @@
+{
+  "id": "tinder",
+  "name": "Tinder",
+  "version": "0.0.1",
+  "description": "Tinder",
+  "main": "index.js",
+  "author": "Samuel Thompson <sam@samuelthompson.co.uk>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://tinder.com",
+    "hasNotificationSound": false
+  }
+}
